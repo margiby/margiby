@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and co
 ![Margiby's GitHub stats](https://github-readme-stats.vercel.app/api?username=margiby&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/margiby)
+- [LinkedIn](https://www.linkedin.com/in/margiby/)
 
 
 ## 📝 Latest Blog Posts
